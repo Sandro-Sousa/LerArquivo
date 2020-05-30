@@ -1,0 +1,13 @@
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp3.1\ExercicioConjuntos.exe
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp3.1\ExercicioConjuntos.deps.json
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp3.1\ExercicioConjuntos.runtimeconfig.json
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp3.1\ExercicioConjuntos.runtimeconfig.dev.json
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp3.1\ExercicioConjuntos.dll
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp3.1\ExercicioConjuntos.pdb
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp3.1\ExercicioConjuntos.csprojAssemblyReference.cache
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp3.1\ExercicioConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp3.1\ExercicioConjuntos.AssemblyInfoInputs.cache
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp3.1\ExercicioConjuntos.AssemblyInfo.cs
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp3.1\ExercicioConjuntos.dll
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp3.1\ExercicioConjuntos.pdb
+C:\Users\Sandr\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp3.1\ExercicioConjuntos.genruntimeconfig.cache
